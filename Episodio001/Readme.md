@@ -13,16 +13,16 @@ Hoy vamos a hablar de:
 Enlaces de interés:
 
 FSLogix:
-https://docs.microsoft.com/es-es/azur...
+https://learn.microsoft.com/es-es/azure/virtual-desktop/fslogix-containers-azure-files
 
 Cloud Adoption Framework
-https://docs.microsoft.com/es-es/azur...
+https://learn.microsoft.com/es-es/azure/cloud-adoption-framework/
 
 Windows Autopilot
-https://www.microsoft.com/es-es/micro...
+https://www.microsoft.com/es-es/microsoft-365/windows/windows-autopilot
 
 Microsoft Entra
-https://www.microsoft.com/es-es/secur...
+https://www.microsoft.com/es-es/security/business/microsoft-entra
 
 Recuerda que puedes seguirnos en:
 
