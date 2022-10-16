@@ -1,3 +1,8 @@
+Video
+
+https://www.youtube.com/watch?v=5-hiVPB3KdY
+
+
 Bienvenidos al primer episodio del podcast sobre tecnologías cloud Hablemos de nube. Esta es una iniciativa creada por Luis López, Roberto Tejero, Dario Romero y Javi González
 
 Hoy vamos a hablar de:
