@@ -18,13 +18,13 @@ Enlaces de interés:
 
 	- Azure Virtual Desktop
 		○ What's new in Azure Virtual Desktop?
-			§ What's new in Azure Virtual Desktop? - Azure | Microsoft Learn
+			§ https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new#august-2022
 	- Cloud Adoption Framework
 		○ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/
 		○ https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/ready/azure-best-practices/resource-tagging
 	- Windows Autopilot
 		○ https://joymalya.com/azure-ad-join-vs-hybrid-azure-ad-join/
-		○ Windows Autopilot networking requirements | Microsoft Learn
+		○ https://learn.microsoft.com/en-us/mem/autopilot/networking-requirements
 	- Attack simulator
 		○ https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training-get-started?view=o365-worldwide
   
