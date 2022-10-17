@@ -1,6 +1,6 @@
 Video
 
-- 
+- https://www.youtube.com/watch?v=l58rYtxyC3o
 
 Bienvenidos al segundo episodio del podcast sobre tecnologías cloud Hablemos de nube. Un dia mas Roberto Tejero, Dario Romero, Javi González y Luise estamos aqui para contaros cosas chulisimas de Azure y M365.
  
